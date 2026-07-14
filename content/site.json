@@ -4,7 +4,7 @@
     {
       "titulo": "Demolição",
       "slug": "demolicao",
-      "imagem": "/uploads/8.martelo_verticallocações_louilustra.png",
+      "imagem": "/uploads/8.martelo_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Martelete Perfurador (2,6kg / 5kg / 6kg) – Manual",
@@ -29,7 +29,7 @@
     {
       "titulo": "Andaime",
       "slug": "andaime",
-      "imagem": "/uploads/3.andaime_verticallocações_louilustra.png",
+      "imagem": "/uploads/3.andaime_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Andaime Tubular – Manual",
@@ -76,7 +76,7 @@
     {
       "titulo": "Escoramento Metálico",
       "slug": "escoramento-metalico",
-      "imagem": "/uploads/placeholder.jpg",
+      "imagem": "/uploads/1.escoras_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Vídeo – Escoramento Metálico",
@@ -87,7 +87,7 @@
     {
       "titulo": "Compactação",
       "slug": "compactacao",
-      "imagem": "/uploads/placeholder.jpg",
+      "imagem": "/uploads/2.compactador_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Compactador a Percussão – Manual",
@@ -174,7 +174,7 @@
     {
       "titulo": "Concretagem",
       "slug": "concretagem",
-      "imagem": "/uploads/placeholder.jpg",
+      "imagem": "/uploads/7.betoneira_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Alisadora de Concreto – Manual",
@@ -251,7 +251,7 @@
     {
       "titulo": "Ferramentas Elétricas e Bateria",
       "slug": "ferramentas-eletricas-bateria",
-      "imagem": "/uploads/placeholder.jpg",
+      "imagem": "/uploads/10.esmerilhadeira_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Ferramentas Elétricas – Manual Geral",
@@ -334,7 +334,7 @@
     {
       "titulo": "Outros Equipamentos",
       "slug": "outros-equipamentos",
-      "imagem": "/uploads/placeholder.jpg",
+      "imagem": "/uploads/9.serra_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Bomba Mangote – Manual",
@@ -406,7 +406,7 @@
     {
       "titulo": "Plataforma Elevatória",
       "slug": "plataforma",
-      "imagem": "/uploads/placeholder.jpg",
+      "imagem": "/uploads/5.plataforma_verticallocações_louilustra_800x340.png",
       "documentos": [
         {
           "titulo": "Plataforma Articulada 16m – ART",
