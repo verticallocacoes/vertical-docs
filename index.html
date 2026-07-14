@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Materiais Técnicos | Vertical Locações — Sua obra não para</title>
+<link rel="icon" href="/assets/logo-icone.png" type="image/png">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header class="topo">
+  <div class="marca">
+    <img src="/assets/logo-icone.png" alt="Vertical Locações">
+    <div class="titulos">
+      <span class="nome-repo">Materiais Técnicos</span>
+      <span class="slogan">Sua obra não para</span>
+    </div>
+  </div>
+  <a class="voltar" href="https://www.verticallocacoes.com.br" target="_blank" rel="noopener">Site principal ↗</a>
+</header>
+
+<main>
+  <h1 class="titulo-pagina">Selecione uma categoria de equipamento</h1>
+  <p class="subtitulo-pagina">Manuais, fichas técnicas e certificados dos equipamentos Vertical</p>
+  <div id="grid" class="grid-categorias">Carregando...</div>
+</main>
+
+<footer class="rodape">
+  <img src="/assets/logo.png" alt="Vertical Locações">
+  Vertical Locações — Sua obra não para
+</footer>
+
+<script>
+async function carregar() {
+  const res = await fetch('/content/site.json');
+  const dados = await res.json();
+  const grid = document.getElementById('grid');
+  grid.innerHTML = '';
+  dados.categorias.forEach(cat => {
+    const qtd = (cat.documentos || []).length;
+    const a = document.createElement('a');
+    a.className = 'card-categoria';
+    a.href = '/categoria.html?slug=' + encodeURIComponent(cat.slug);
+    a.innerHTML = `<div class="nome">${cat.titulo}</div><div class="qtd">${qtd} documento(s)</div>`;
+    grid.appendChild(a);
+  });
+  if (dados.categorias.length === 0) {
+    grid.innerHTML = '<div class="vazio">Nenhuma categoria cadastrada ainda.</div>';
+  }
+}
+carregar();
+</script>
+
+</body>
+</html>

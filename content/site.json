@@ -1,0 +1,47 @@
+{
+  "titulo_site": "Materiais Técnicos | Vertical Locações — Sua obra não para",
+  "categorias": [
+    {
+      "titulo": "Demolição",
+      "slug": "demolicao",
+      "imagem": "/uploads/placeholder.jpg",
+      "documentos": [
+        {
+          "titulo": "Manual - Martelo Demolidor 30kg",
+          "arquivo": "",
+          "descricao": "Manual de operação e segurança"
+        }
+      ]
+    },
+    {
+      "titulo": "Andaime",
+      "slug": "andaime",
+      "imagem": "/uploads/placeholder.jpg",
+      "documentos": []
+    },
+    {
+      "titulo": "Plataforma",
+      "slug": "plataforma",
+      "imagem": "/uploads/placeholder.jpg",
+      "documentos": []
+    },
+    {
+      "titulo": "Concretagem",
+      "slug": "concretagem",
+      "imagem": "/uploads/placeholder.jpg",
+      "documentos": []
+    },
+    {
+      "titulo": "Compactação",
+      "slug": "compactacao",
+      "imagem": "/uploads/placeholder.jpg",
+      "documentos": []
+    },
+    {
+      "titulo": "Elevação",
+      "slug": "elevacao",
+      "imagem": "/uploads/placeholder.jpg",
+      "documentos": []
+    }
+  ]
+}

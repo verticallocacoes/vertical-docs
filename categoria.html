@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Documentos | Vertical Locações — Sua obra não para</title>
+<link rel="icon" href="/assets/logo-icone.png" type="image/png">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header class="topo">
+  <div class="marca">
+    <img src="/assets/logo-icone.png" alt="Vertical Locações">
+    <div class="titulos">
+      <span class="nome-repo">Materiais Técnicos</span>
+      <span class="slogan">Sua obra não para</span>
+    </div>
+  </div>
+  <a class="voltar" href="/">← Todas as categorias</a>
+</header>
+
+<main>
+  <h1 class="titulo-pagina" id="titulo-cat">Carregando...</h1>
+  <ul id="lista" class="lista-documentos"></ul>
+</main>
+
+<footer class="rodape">
+  <img src="/assets/logo.png" alt="Vertical Locações">
+  Vertical Locações — Sua obra não para
+</footer>
+
+<script>
+async function carregar() {
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get('slug');
+  const res = await fetch('/content/site.json');
+  const dados = await res.json();
+  const cat = dados.categorias.find(c => c.slug === slug);
+  const titulo = document.getElementById('titulo-cat');
+  const lista = document.getElementById('lista');
+
+  if (!cat) {
+    titulo.textContent = 'Categoria não encontrada';
+    return;
+  }
+
+  titulo.textContent = cat.titulo;
+  const docs = cat.documentos || [];
+
+  if (docs.length === 0) {
+    lista.innerHTML = '<div class="vazio">Nenhum documento cadastrado nesta categoria ainda.</div>';
+    return;
+  }
+
+  lista.innerHTML = '';
+  docs.forEach(doc => {
+    const li = document.createElement('li');
+    const link = doc.arquivo || '#';
+    li.innerHTML = `
+      <div class="info">
+        <div class="nome-doc">${doc.titulo}</div>
+        ${doc.descricao ? `<div class="desc-doc">${doc.descricao}</div>` : ''}
+      </div>
+      <a class="baixar" href="${link}" target="_blank" rel="noopener">Baixar</a>
+    `;
+    lista.appendChild(li);
+  });
+}
+carregar();
+</script>
+
+</body>
+</html>

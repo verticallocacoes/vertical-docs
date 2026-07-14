@@ -1,0 +1,38 @@
+backend:
+  name: git-gateway
+  branch: main
+
+logo_url: "/assets/logo.png"
+
+publish_mode: simple
+media_folder: "uploads"
+public_folder: "/uploads"
+
+locale: "pt"
+
+collections:
+  - name: "site"
+    label: "Materiais Técnicos"
+    files:
+      - name: "conteudo"
+        label: "Categorias e Documentos"
+        file: "content/site.json"
+        format: "json"
+        fields:
+          - { label: "Título do site", name: "titulo_site", widget: "string" }
+          - label: "Categorias"
+            name: "categorias"
+            widget: "list"
+            summary: "{{titulo}} ({{fields.documentos.length}} documento(s))"
+            fields:
+              - { label: "Nome da categoria", name: "titulo", widget: "string" }
+              - { label: "Slug (sem espaço/acento)", name: "slug", widget: "string" }
+              - { label: "Imagem da categoria", name: "imagem", widget: "image", required: false }
+              - label: "Documentos"
+                name: "documentos"
+                widget: "list"
+                summary: "{{titulo}}"
+                fields:
+                  - { label: "Título do documento", name: "titulo", widget: "string" }
+                  - { label: "Arquivo (PDF, imagem, etc.)", name: "arquivo", widget: "file" }
+                  - { label: "Descrição (opcional)", name: "descricao", widget: "text", required: false }

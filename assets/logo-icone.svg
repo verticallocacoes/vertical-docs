@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vertical">
+  <path d="M60 150
+           a48 48 0 0 1 48 -48
+           h150
+           a48 48 0 0 1 48 48
+           v190
+           a48 48 0 0 1 -48 48
+           h-150
+           a48 48 0 0 1 -48 -48
+           z"
+        fill="none" stroke="#E31E24" stroke-width="26" />
+  <g stroke="#E31E24" stroke-width="20" fill="none" stroke-linecap="round">
+    <path d="M70 165 L155 300" />
+    <path d="M110 165 L185 300" />
+    <path d="M150 165 L215 300" />
+  </g>
+  <g stroke="#FFE000" stroke-width="20" fill="none" stroke-linecap="round">
+    <path d="M110 340 L290 30" />
+    <path d="M150 340 L330 30" />
+    <path d="M190 340 L370 30" />
+  </g>
+</svg>
