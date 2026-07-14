@@ -34,5 +34,6 @@ collections:
                 summary: "{{titulo}}"
                 fields:
                   - { label: "Título do documento", name: "titulo", widget: "string" }
+                  - { label: "Subcategoria (opcional, agrupa documentos parecidos)", name: "subcategoria", widget: "string", required: false }
                   - { label: "Arquivo (PDF, imagem, etc.)", name: "arquivo", widget: "file" }
                   - { label: "Descrição (opcional)", name: "descricao", widget: "text", required: false }
