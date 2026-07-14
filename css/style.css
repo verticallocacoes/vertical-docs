@@ -196,3 +196,14 @@ footer.rodape img {
 .subcategoria-titulo:first-child {
   margin-top: 0;
 }
+
+
+.card-categoria .imagem-cat {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  display: block;
+  background: #eef1f4;
+}
