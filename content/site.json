@@ -317,21 +317,6 @@
       ]
     },
     {
-      "titulo": "Mini Grua",
-      "slug": "elevacao",
-      "imagem": "/uploads/placeholder.jpg",
-      "documentos": [
-        {
-          "titulo": "Mini Grua Elleva Max – Manual",
-          "arquivo": "/MINI GRUA/MINI GRUA ELLEVA MAX.pdf"
-        },
-        {
-          "titulo": "Mini Grua – Plano de Manutenção",
-          "arquivo": "/MINI GRUA/PLANO DE MANUTENÇÃO - MINIGRUA.pdf"
-        }
-      ]
-    },
-    {
       "titulo": "Outros Equipamentos",
       "slug": "outros-equipamentos",
       "imagem": "/uploads/9.serra_verticallocações_louilustra_800x340.png",
@@ -400,6 +385,21 @@
           "titulo": "Torre de Iluminação – Plano de Manutenção",
           "arquivo": "/OUTROS EQUIPAMENTOS/TORRE DE ILUMINAÇÃO/PLANO DE MANUTENÇÃO - TORRE DE ILUMINAÇÃO.pdf",
           "subcategoria": "Torre de Iluminação"
+        }
+      ]
+    },
+    {
+      "titulo": "Mini Grua",
+      "slug": "elevacao",
+      "imagem": "/uploads/placeholder.jpg",
+      "documentos": [
+        {
+          "titulo": "Mini Grua Elleva Max – Manual",
+          "arquivo": "/MINI GRUA/MINI GRUA ELLEVA MAX.pdf"
+        },
+        {
+          "titulo": "Mini Grua – Plano de Manutenção",
+          "arquivo": "/MINI GRUA/PLANO DE MANUTENÇÃO - MINIGRUA.pdf"
         }
       ]
     },
