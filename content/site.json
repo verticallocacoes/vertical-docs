@@ -9,17 +9,20 @@
         {
           "titulo": "Martelete Perfurador (2,6kg / 5kg / 6kg) – Manual",
           "arquivo": "/LINHA DEMOLIÇÃO/MARTELETE 2,6KG/MARTELOS PERFURADORES.pdf",
-          "descricao": "Aplica-se aos maretes perfuradores de 2,6kg, 5kg e 6kg"
+          "descricao": "Aplica-se aos maretes perfuradores de 2,6kg, 5kg e 6kg",
+          "subcategoria": "Martelete Perfurador 2,6kg / 5kg / 6kg"
         },
         {
           "titulo": "Martelo Demolidor (9kg / 11kg / 13kg / 16kg / 30kg) – Manual",
           "arquivo": "/LINHA DEMOLIÇÃO/MARTELO 9KG/MARTELOS DEMOLIDORES.pdf",
-          "descricao": "Aplica-se aos martelos demolidores de 9kg, 11kg, 13kg, 16kg e 30kg"
+          "descricao": "Aplica-se aos martelos demolidores de 9kg, 11kg, 13kg, 16kg e 30kg",
+          "subcategoria": "Martelo Demolidor 9kg / 11kg / 13kg / 16kg / 30kg"
         },
         {
           "titulo": "Ferramentas Elétricas – Plano de Manutenção",
           "arquivo": "/LINHA DEMOLIÇÃO/MARTELETE 2,6KG/PLANO DE MANUTENÇÃO - FERRAMENTAS ELÉTRICAS.pdf",
-          "descricao": "Plano de manutenção geral para martelos e maretes"
+          "descricao": "Plano de manutenção geral para martelos e maretes",
+          "subcategoria": "Martelete Perfurador 2,6kg / 5kg / 6kg"
         }
       ]
     },
@@ -88,67 +91,83 @@
       "documentos": [
         {
           "titulo": "Compactador a Percussão – Manual",
-          "arquivo": "/LINHA COMPACTAÇÃO/COMPACTADOR A PERCUSSÃO/COMPACTADOR DE PERCURSAO.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/COMPACTADOR A PERCUSSÃO/COMPACTADOR DE PERCURSAO.pdf",
+          "subcategoria": "Compactador a Percussão"
         },
         {
           "titulo": "Compactador a Percussão – Vídeo",
-          "arquivo": "https://www.youtube.com/watch?v=IF_j96r2vcQ"
+          "arquivo": "https://www.youtube.com/watch?v=IF_j96r2vcQ",
+          "subcategoria": "Compactador a Percussão"
         },
         {
           "titulo": "Compactador a Percussão – Plano de Manutenção",
-          "arquivo": "/LINHA COMPACTAÇÃO/COMPACTADOR A PERCUSSÃO/PLANO DE MANUTENÇÃO - COMPACTADOR PERCUSSÃO.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/COMPACTADOR A PERCUSSÃO/PLANO DE MANUTENÇÃO - COMPACTADOR PERCUSSÃO.pdf",
+          "subcategoria": "Compactador a Percussão"
         },
         {
           "titulo": "Placa Vibratória – Manual",
-          "arquivo": "/LINHA COMPACTAÇÃO/PLACA VIBRATÓRIA/COMPACTADOR DE PLACA.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/PLACA VIBRATÓRIA/COMPACTADOR DE PLACA.pdf",
+          "subcategoria": "Placa Vibratória"
         },
         {
           "titulo": "Placa Vibratória – Plano de Manutenção",
-          "arquivo": "/LINHA COMPACTAÇÃO/PLACA VIBRATÓRIA/PLANO DE MANUTENÇÃO - PLACA VIBRATÓRIA.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/PLACA VIBRATÓRIA/PLANO DE MANUTENÇÃO - PLACA VIBRATÓRIA.pdf",
+          "subcategoria": "Placa Vibratória"
         },
         {
           "titulo": "Placa Vibratória – Vídeo",
-          "arquivo": "https://www.youtube.com/watch?v=jJuTSnQ15Ok"
+          "arquivo": "https://www.youtube.com/watch?v=jJuTSnQ15Ok",
+          "subcategoria": "Placa Vibratória"
         },
         {
           "titulo": "Rolo Pé de Carneiro 1680kg – ART v01",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/ART LP9505 V01.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/ART LP9505 V01.pdf",
+          "subcategoria": "Rolo Pé de Carneiro 1680kg"
         },
         {
           "titulo": "Rolo Pé de Carneiro 1680kg – ART v02",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/ART LP9505 V02.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/ART LP9505 V02.pdf",
+          "subcategoria": "Rolo Pé de Carneiro 1680kg"
         },
         {
           "titulo": "Rolo Pé de Carneiro 1680kg – Manual",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/MANUAL ROLO PE DE CARNEIRO.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/MANUAL ROLO PE DE CARNEIRO.pdf",
+          "subcategoria": "Rolo Pé de Carneiro 1680kg"
         },
         {
           "titulo": "Rolo Pé de Carneiro 1680kg – Plano de Manutenção",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/PLANO DE MANUTENÇÃO - ROLO.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO ARTICULADO PE DE CARNEIRO 1680KG/PLANO DE MANUTENÇÃO - ROLO.pdf",
+          "subcategoria": "Rolo Pé de Carneiro 1680kg"
         },
         {
           "titulo": "Rolo Duplo 680kg – Checklist de Equipamento",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO COMPACTADOR DUPLO 680KG/CHECKLIST DE EQUIPAMENTO LP 6500.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO COMPACTADOR DUPLO 680KG/CHECKLIST DE EQUIPAMENTO LP 6500.pdf",
+          "subcategoria": "Rolo Compactador Duplo 680kg"
         },
         {
           "titulo": "Rolo Duplo 680kg – Laudo Técnico",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO COMPACTADOR DUPLO 680KG/LAUDO ROLO COMPACTADOR HUSQVARNA LP 6500 - 121.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO COMPACTADOR DUPLO 680KG/LAUDO ROLO COMPACTADOR HUSQVARNA LP 6500 - 121.pdf",
+          "subcategoria": "Rolo Compactador Duplo 680kg"
         },
         {
           "titulo": "Rolo Duplo 680kg – Plano de Manutenção",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO COMPACTADOR DUPLO 680KG/PLANO DE MANUTENÇÃO - ROLO LP 6500.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO COMPACTADOR DUPLO 680KG/PLANO DE MANUTENÇÃO - ROLO LP 6500.pdf",
+          "subcategoria": "Rolo Compactador Duplo 680kg"
         },
         {
           "titulo": "Rolo Liso Tripulado 1200kg – Certificado/Laudo",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO LISO TRIPULADO 1200KG/AL20240400995.cz967.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO LISO TRIPULADO 1200KG/AL20240400995.cz967.pdf",
+          "subcategoria": "Rolo Liso Tripulado 1200kg"
         },
         {
           "titulo": "Rolo Liso Tripulado 1200kg – Plano de Manutenção",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO LISO TRIPULADO 1200KG/PLANO DE MANUTENÇÃO - ROLO.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO LISO TRIPULADO 1200KG/PLANO DE MANUTENÇÃO - ROLO.pdf",
+          "subcategoria": "Rolo Liso Tripulado 1200kg"
         },
         {
           "titulo": "Rolo Liso Tripulado 1200kg – Manual",
-          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO LISO TRIPULADO 1200KG/ROLO COMPACTADOR.pdf"
+          "arquivo": "/LINHA COMPACTAÇÃO/ROLO COMPACTADOR/ROLO LISO TRIPULADO 1200KG/ROLO COMPACTADOR.pdf",
+          "subcategoria": "Rolo Liso Tripulado 1200kg"
         }
       ]
     },
@@ -159,59 +178,73 @@
       "documentos": [
         {
           "titulo": "Alisadora de Concreto – Manual",
-          "arquivo": "/LINHA CONCRETAGEM/ALISADORA DE CONCRETO/Manual-Alisadora-De-Piso.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/ALISADORA DE CONCRETO/Manual-Alisadora-De-Piso.pdf",
+          "subcategoria": "Alisadora de Concreto"
         },
         {
           "titulo": "Alisadora de Concreto – Plano de Manutenção",
-          "arquivo": "/LINHA CONCRETAGEM/ALISADORA DE CONCRETO/PLANO DE MANUTENÇÃO - ALISADORA DE CONCRETO.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/ALISADORA DE CONCRETO/PLANO DE MANUTENÇÃO - ALISADORA DE CONCRETO.pdf",
+          "subcategoria": "Alisadora de Concreto"
         },
         {
           "titulo": "Betoneira 400L – Vídeo",
-          "arquivo": "https://www.youtube.com/watch?v=nTT5HgEewBw&t=73s"
+          "arquivo": "https://www.youtube.com/watch?v=nTT5HgEewBw&t=73s",
+          "subcategoria": "Betoneiras"
         },
         {
           "titulo": "Betoneira 400L – Manual",
-          "arquivo": "/LINHA CONCRETAGEM/BETONEIRAS/MANUAL BETONEIRA 400L.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/BETONEIRAS/MANUAL BETONEIRA 400L.pdf",
+          "subcategoria": "Betoneiras"
         },
         {
           "titulo": "Betoneiras – Plano de Manutenção",
-          "arquivo": "/LINHA CONCRETAGEM/BETONEIRAS/PLANO DE MANUTENÇÃO - BETONEIRAS.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/BETONEIRAS/PLANO DE MANUTENÇÃO - BETONEIRAS.pdf",
+          "subcategoria": "Betoneiras"
         },
         {
           "titulo": "Cortadora de Asfalto a Bateria – Manual",
-          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE ASFALTO/CORTADORA DE ASFALTO BATERIA.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE ASFALTO/CORTADORA DE ASFALTO BATERIA.pdf",
+          "subcategoria": "Cortadora de Asfalto"
         },
         {
           "titulo": "Cortadora de Asfalto a Gasolina – Manual",
-          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE ASFALTO/CORTADORA DE ASFALTO GASOLINA.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE ASFALTO/CORTADORA DE ASFALTO GASOLINA.pdf",
+          "subcategoria": "Cortadora de Asfalto"
         },
         {
           "titulo": "Cortadora de Piso – Manual",
-          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE PISO/CORTADORA DE PISO.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE PISO/CORTADORA DE PISO.pdf",
+          "subcategoria": "Cortadora de Piso"
         },
         {
           "titulo": "Cortadora de Piso – Vídeo",
-          "arquivo": "https://www.youtube.com/watch?v=bzH8Kiz3evc"
+          "arquivo": "https://www.youtube.com/watch?v=bzH8Kiz3evc",
+          "subcategoria": "Cortadora de Piso"
         },
         {
           "titulo": "Cortadora de Piso – Plano de Manutenção",
-          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE PISO/PLANO DE MANUTENÇÃO - CORTADORA DE PISO.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/CORTADORA DE PISO/PLANO DE MANUTENÇÃO - CORTADORA DE PISO.pdf",
+          "subcategoria": "Cortadora de Piso"
         },
         {
           "titulo": "Motor Vibrador – Manual",
-          "arquivo": "/LINHA CONCRETAGEM/MOTOR VIBRADOR/MOTOR DE VIBRACAO.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/MOTOR VIBRADOR/MOTOR DE VIBRACAO.pdf",
+          "subcategoria": "Motor Vibrador"
         },
         {
           "titulo": "Motor Vibrador a Gasolina – Plano de Manutenção",
-          "arquivo": "/LINHA CONCRETAGEM/MOTOR VIBRADOR/PLANO DE MANUTENÇÃO - MOTOR VIBRADOR GASOLINA.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/MOTOR VIBRADOR/PLANO DE MANUTENÇÃO - MOTOR VIBRADOR GASOLINA.pdf",
+          "subcategoria": "Motor Vibrador"
         },
         {
           "titulo": "Régua Vibratória Vibromak – Manual",
-          "arquivo": "/LINHA CONCRETAGEM/REGUA VIBRATORIA/Manual Régua Vibratória - VIBROMAK.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/REGUA VIBRATORIA/Manual Régua Vibratória - VIBROMAK.pdf",
+          "subcategoria": "Régua Vibratória"
         },
         {
           "titulo": "Régua Vibratória – Plano de Manutenção",
-          "arquivo": "/LINHA CONCRETAGEM/REGUA VIBRATORIA/PLANO DE MANUTENÇÃO - REGUA VIBRATORIA.pdf"
+          "arquivo": "/LINHA CONCRETAGEM/REGUA VIBRATORIA/PLANO DE MANUTENÇÃO - REGUA VIBRATORIA.pdf",
+          "subcategoria": "Régua Vibratória"
         }
       ]
     },
@@ -223,51 +256,63 @@
         {
           "titulo": "Ferramentas Elétricas – Manual Geral",
           "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/ESMERILHADEIRA ANGULAR/FERRAMENTAS ELETRICAS.pdf",
-          "descricao": "Aplica-se a esmerilhadeira, lixadeira e serra circular/mármore"
+          "descricao": "Aplica-se a esmerilhadeira, lixadeira e serra circular/mármore",
+          "subcategoria": "Esmerilhadeira Angular"
         },
         {
           "titulo": "Lixadeira Angular – Manual Específico",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/LIXADEIRA ANGULAR/LIXADEIRA ANGULAR.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/LIXADEIRA ANGULAR/LIXADEIRA ANGULAR.pdf",
+          "subcategoria": "Lixadeira Angular"
         },
         {
           "titulo": "Lixadeira de Parede – Manual",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/LIXADEIRA DE PAREDE/LIXADEIRA DE PAREDE.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/LIXADEIRA DE PAREDE/LIXADEIRA DE PAREDE.pdf",
+          "subcategoria": "Lixadeira de Parede"
         },
         {
           "titulo": "Ferramentas Elétricas – Plano de Manutenção",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/ESMERILHADEIRA ANGULAR/PLANO DE MANUTENÇÃO - FERRAMENTAS ELÉTRICAS.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/ESMERILHADEIRA ANGULAR/PLANO DE MANUTENÇÃO - FERRAMENTAS ELÉTRICAS.pdf",
+          "subcategoria": "Esmerilhadeira Angular"
         },
         {
           "titulo": "Nível a Laser Hilti – Manual",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/NIVEL A LASER/NIVEL A LASER HILTI.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/NIVEL A LASER/NIVEL A LASER HILTI.pdf",
+          "subcategoria": "Nível a Laser"
         },
         {
           "titulo": "Ferramentas a Bateria – Plano de Manutenção",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/NIVEL A LASER/PLANO DE MANUTENÇÃO - FERRAMENTAS A BATERIA.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/NIVEL A LASER/PLANO DE MANUTENÇÃO - FERRAMENTAS A BATERIA.pdf",
+          "subcategoria": "Nível a Laser"
         },
         {
           "titulo": "Policorte – Manual",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/POLICORTE/PLANO DE MANUTENÇÃO - MÁQUINA POLICORTE.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/POLICORTE/PLANO DE MANUTENÇÃO - MÁQUINA POLICORTE.pdf",
+          "subcategoria": "Policorte"
         },
         {
           "titulo": "Policorte – Plano de Manutenção",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/POLICORTE/PLANO DE MANUTENÇÃO - MÁQUINA POLICORTE.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/POLICORTE/PLANO DE MANUTENÇÃO - MÁQUINA POLICORTE.pdf",
+          "subcategoria": "Policorte"
         },
         {
           "titulo": "Serra de Bancada Dewalt – Manual",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA DE BANCADA/SERRA DE BANCADA - DEWALT.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA DE BANCADA/SERRA DE BANCADA - DEWALT.pdf",
+          "subcategoria": "Serra de Bancada"
         },
         {
           "titulo": "Serra de Bancada Makita – Manual",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA DE BANCADA/SERRA DE BANCADA - MAKITA.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA DE BANCADA/SERRA DE BANCADA - MAKITA.pdf",
+          "subcategoria": "Serra de Bancada"
         },
         {
           "titulo": "Serra de Bancada – Plano de Manutenção",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA DE BANCADA/PLANO DE MANUTENÇÃO - SERRA DE BANCADA.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA DE BANCADA/PLANO DE MANUTENÇÃO - SERRA DE BANCADA.pdf",
+          "subcategoria": "Serra de Bancada"
         },
         {
           "titulo": "Serra Mármore a Bateria – Manual",
-          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA MÁRMORE/SERRA MARMORE A BATERIA.pdf"
+          "arquivo": "/LINHA FERRAMENTAS ELÉTRICAS E BATERIA/SERRA MÁRMORE/SERRA MARMORE A BATERIA.pdf",
+          "subcategoria": "Serra Mármore"
         }
       ]
     },
@@ -293,55 +338,68 @@
       "documentos": [
         {
           "titulo": "Bomba Mangote – Manual",
-          "arquivo": "/OUTROS EQUIPAMENTOS/BOMBA MANGOTE/BOMBA MANGOTE.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/BOMBA MANGOTE/BOMBA MANGOTE.pdf",
+          "subcategoria": "Bomba Mangote"
         },
         {
           "titulo": "Container – Manual",
-          "arquivo": "/OUTROS EQUIPAMENTOS/CONTAINER/MANUAL CONTAINER REV 10-24.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/CONTAINER/MANUAL CONTAINER REV 10-24.pdf",
+          "subcategoria": "Container"
         },
         {
           "titulo": "Container – Vídeo Demonstrativo",
-          "arquivo": "/OUTROS EQUIPAMENTOS/CONTAINER/Vídeo do WhatsApp de 2025-05-13 à(s) 17.00.32_41b5771d.mp4"
+          "arquivo": "/OUTROS EQUIPAMENTOS/CONTAINER/Vídeo do WhatsApp de 2025-05-13 à(s) 17.00.32_41b5771d.mp4",
+          "subcategoria": "Container"
         },
         {
           "titulo": "Dumper – Dados Técnicos",
-          "arquivo": "/OUTROS EQUIPAMENTOS/DUMPER/DADOS TECNICOS DUMPER.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/DUMPER/DADOS TECNICOS DUMPER.pdf",
+          "subcategoria": "Dumper"
         },
         {
           "titulo": "Gerador 15KVA – Manual",
-          "arquivo": "/OUTROS EQUIPAMENTOS/GERADOR/GERADOR 15KVA.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/GERADOR/GERADOR 15KVA.pdf",
+          "subcategoria": "Gerador"
         },
         {
           "titulo": "Gerador a Gasolina – Manual",
-          "arquivo": "/OUTROS EQUIPAMENTOS/GERADOR/GERADOR GASOLINA.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/GERADOR/GERADOR GASOLINA.pdf",
+          "subcategoria": "Gerador"
         },
         {
           "titulo": "Gerador a Gasolina – Vídeo",
-          "arquivo": "https://www.youtube.com/watch?v=hzVnBUQesv4"
+          "arquivo": "https://www.youtube.com/watch?v=hzVnBUQesv4",
+          "subcategoria": "Gerador"
         },
         {
           "titulo": "Gerador – Plano de Manutenção",
-          "arquivo": "/OUTROS EQUIPAMENTOS/GERADOR/PLANO DE MANUTENÇÃO - GERADOR.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/GERADOR/PLANO DE MANUTENÇÃO - GERADOR.pdf",
+          "subcategoria": "Gerador"
         },
         {
           "titulo": "Motobomba 3\" – Manual",
-          "arquivo": "/OUTROS EQUIPAMENTOS/MOTOBOMBA/MOTOBOMBA 3POL.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/MOTOBOMBA/MOTOBOMBA 3POL.pdf",
+          "subcategoria": "Motobomba"
         },
         {
           "titulo": "Perfurador de Solo – Vídeo",
-          "arquivo": "https://www.youtube.com/watch?v=UgM-o3vaFco"
+          "arquivo": "https://www.youtube.com/watch?v=UgM-o3vaFco",
+          "subcategoria": "Perfurador de Solo"
         },
         {
           "titulo": "Talha de Corrente – Manual",
-          "arquivo": "/OUTROS EQUIPAMENTOS/TALHA/TALHA DE CORRENTE.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/TALHA/TALHA DE CORRENTE.pdf",
+          "subcategoria": "Talha"
         },
         {
           "titulo": "Torre de Iluminação – Manual",
-          "arquivo": "/OUTROS EQUIPAMENTOS/TORRE DE ILUMINAÇÃO/PLANO DE MANUTENÇÃO - TORRE DE ILUMINAÇÃO.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/TORRE DE ILUMINAÇÃO/PLANO DE MANUTENÇÃO - TORRE DE ILUMINAÇÃO.pdf",
+          "subcategoria": "Torre de Iluminação"
         },
         {
           "titulo": "Torre de Iluminação – Plano de Manutenção",
-          "arquivo": "/OUTROS EQUIPAMENTOS/TORRE DE ILUMINAÇÃO/PLANO DE MANUTENÇÃO - TORRE DE ILUMINAÇÃO.pdf"
+          "arquivo": "/OUTROS EQUIPAMENTOS/TORRE DE ILUMINAÇÃO/PLANO DE MANUTENÇÃO - TORRE DE ILUMINAÇÃO.pdf",
+          "subcategoria": "Torre de Iluminação"
         }
       ]
     },
@@ -352,75 +410,93 @@
       "documentos": [
         {
           "titulo": "Plataforma Articulada 16m – ART",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/ART PTA 16M.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/ART PTA 16M.pdf",
+          "subcategoria": "Plataforma Articulada 16m"
         },
         {
           "titulo": "Plataforma Articulada 16m – Laudo",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/LAUDO PLATAFORMAS.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/LAUDO PLATAFORMAS.pdf",
+          "subcategoria": "Plataforma Articulada 16m"
         },
         {
           "titulo": "Plataforma Articulada 16m – Plano de Manutenção",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/PLANO DE MANUTENÇÃO PLATAFORMA ARTICULADA.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/PLANO DE MANUTENÇÃO PLATAFORMA ARTICULADA.pdf",
+          "subcategoria": "Plataforma Articulada 16m"
         },
         {
           "titulo": "Plataforma Articulada 16m – Manual de Operação e Segurança",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/ZA14J-Operation-and-Safety-Manual-2020-3-26-REV.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/ZA14J-Operation-and-Safety-Manual-2020-3-26-REV.pdf",
+          "subcategoria": "Plataforma Articulada 16m"
         },
         {
           "titulo": "Plataforma Articulada 16m – Manual de Serviço e Manutenção",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/ZA14J-Service-and-Maintenance-Manual-2020-3-26-REV.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 16M/ZA14J-Service-and-Maintenance-Manual-2020-3-26-REV.pdf",
+          "subcategoria": "Plataforma Articulada 16m"
         },
         {
           "titulo": "Plataforma Articulada 20m – Laudo (60 pés)",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 20M/LAUDO PLATAFORMA 60 PÉS.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 20M/LAUDO PLATAFORMA 60 PÉS.pdf",
+          "subcategoria": "Plataforma Articulada 20m"
         },
         {
           "titulo": "Plataforma Articulada 20m – Manual de Instruções",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 20M/MANUAL DE INSTRUÇÕES.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 20M/MANUAL DE INSTRUÇÕES.pdf",
+          "subcategoria": "Plataforma Articulada 20m"
         },
         {
           "titulo": "Plataforma Articulada 20m – Plano de Manutenção (60 pés)",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 20M/PLANO DE MANUTENÇÃO PLATAFORMA 60PÉS.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA ARTICULADA 20M/PLANO DE MANUTENÇÃO PLATAFORMA 60PÉS.pdf",
+          "subcategoria": "Plataforma Articulada 20m"
         },
         {
           "titulo": "Plataforma Tesoura 12m – ART",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 12M/ART PTA 12M.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 12M/ART PTA 12M.pdf",
+          "subcategoria": "Plataforma Tesoura 12m"
         },
         {
           "titulo": "Plataforma Tesoura 12m – Manual de Operação",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 12M/Manual de Operação.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 12M/Manual de Operação.pdf",
+          "subcategoria": "Plataforma Tesoura 12m"
         },
         {
           "titulo": "Plataforma Tesoura 12m – Documento Técnico",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 12M/PLATAFORMA ELEVATORIA_2.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 12M/PLATAFORMA ELEVATORIA_2.pdf",
+          "subcategoria": "Plataforma Tesoura 12m"
         },
         {
           "titulo": "Plataforma Tesoura 12m – Vídeo",
-          "arquivo": "https://www.youtube.com/watch?v=ZVsQ_Zcg7hI"
+          "arquivo": "https://www.youtube.com/watch?v=ZVsQ_Zcg7hI",
+          "subcategoria": "Plataforma Tesoura 12m"
         },
         {
           "titulo": "Plataforma Tesoura 14m – ART",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 14M/ART PTA 12M.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 14M/ART PTA 12M.pdf",
+          "subcategoria": "Plataforma Tesoura 14m"
         },
         {
           "titulo": "Plataforma Tesoura 6m – ART Hydrolift",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/ART HYDROLIFT V01.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/ART HYDROLIFT V01.pdf",
+          "subcategoria": "Plataforma Tesoura 6m"
         },
         {
           "titulo": "Plataforma Tesoura 6m – ART (2022)",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/ART PLATAFORMA ELEVATÓRIA VERTICAL 2022 (1).pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/ART PLATAFORMA ELEVATÓRIA VERTICAL 2022 (1).pdf",
+          "subcategoria": "Plataforma Tesoura 6m"
         },
         {
           "titulo": "Plataforma Tesoura 6m – ART",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/ART PTA 6M.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/ART PTA 6M.pdf",
+          "subcategoria": "Plataforma Tesoura 6m"
         },
         {
           "titulo": "Plataforma Tesoura 6m – Laudo Técnico",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/LAUDO TECNICO.pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/LAUDO TECNICO.pdf",
+          "subcategoria": "Plataforma Tesoura 6m"
         },
         {
           "titulo": "Plataforma Tesoura 6m – Manual PEP590",
-          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/MANUAL PEP590.06.22 (1).pdf"
+          "arquivo": "/PLATAFORMA ELEVATÓRIA/PLATAFORMA TESOURA 6M/MANUAL PEP590.06.22 (1).pdf",
+          "subcategoria": "Plataforma Tesoura 6m"
         }
       ]
     }
